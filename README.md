@@ -6,5 +6,5 @@ Data encryption and decryption
 <gui.py>
 	Algorithm and the code convert the file to binary format but without Graphical User Interface it is hard to run this program. GUI provide a smooth workflow in the program. Algorithm and its code is integrated with the GUI for better use.
 
-<decryption.PY>
+<decryption.py>
 	Encoding need to be decode it is done by the Decryption algorithm but it is nowhere to be found in the same encryption algorithm or in the computer it is physically present in the externa drive.
